@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hichambouzkraoui/Azure-Samples/_apis/build/status%2Fhicham-mdous.js-e2e-express-server?branchName=main)](https://dev.azure.com/hichambouzkraoui/Azure-Samples/_build/latest?definitionId=2&branchName=main)
 ---
 page_type: sample
 languages:
